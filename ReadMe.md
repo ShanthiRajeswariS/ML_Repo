@@ -1,1 +1,1 @@
-New change in base branch
+Sample file to check merge conflict
